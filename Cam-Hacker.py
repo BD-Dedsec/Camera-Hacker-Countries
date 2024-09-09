@@ -15,7 +15,7 @@ headers["Cache-Control"] = "max-age=0"
 headers["Connection"] = "keep-alive"
 headers["Host"] = "www.insecam.org"
 headers["Upgrade-Insecure-Requests"] = "1"
-headers["User-Agent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36","Mozilla/5.0 (Windows NT 6.1; rv:76.0) Gecko/20100101 Firefox/76.0"
+headers["User-Agent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
 
 
 resp = requests.get(url,headers=headers)
