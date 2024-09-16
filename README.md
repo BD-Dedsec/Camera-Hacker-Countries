@@ -4,7 +4,7 @@ Hacker Cameras
 
 <h3> Run Command: </h3>
 
-* apt install python
+* apt install python3
 
 * apt install git
 
@@ -14,5 +14,5 @@ Hacker Cameras
 
 * pip install -r requirements.txt
 
-* python Cam-Hacker.py 
+* python3 Cam-Hacker.py 
 
